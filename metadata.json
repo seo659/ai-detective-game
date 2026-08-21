@@ -1,0 +1,8 @@
+{
+  "name": "The AI Detective",
+  "description": "A dynamic noir mystery detective game powered by Gemini AI with suspect interrogations, evidence board, contradictions, and dramatic case solving.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
